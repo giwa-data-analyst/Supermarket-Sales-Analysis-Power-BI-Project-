@@ -72,6 +72,10 @@ The goal of this project is to transform raw transactional data into meaningful 
 
 <img src="images/executive-overview-dashboard.png.png" width="800"/>
 
+### 💡 Recommendations Base on Executive Overview Dashboard
+- Stabilize revenue by replicating strategies from high-performing months and introducing consistent monthly promotions.
+- Increase Average Order Value through product bundling and upselling techniques.
+- Use dashboard insights for regular performance tracking and quick decision-making.
 <br>
 
 ### Category Analysis Dashboard
@@ -80,6 +84,10 @@ The goal of this project is to transform raw transactional data into meaningful 
 
 <img src="images/category-analysis-dashboard.png.png" width="800"/>
 
+### 💡 Recommendations Base on Category Analysis Dashboard
+- Focus on expanding high-performing categories like Grocery to maximize revenue.
+- Improve low-performing categories (e.g., Bakery) through discounts, repositioning, or cross-selling.
+- Balance product mix to reduce over-dependence on a single category.
 <br>
 
 ### Payment Analysis Dashboard
@@ -88,7 +96,18 @@ The goal of this project is to transform raw transactional data into meaningful 
 
 <img src="images/payment-analysis-dashboard.png.png" width="800"/>
 
-<br>
+### 💡 Recommendations
+- Promote digital payments (Card/Mobile) with incentives to improve efficiency.
+- Reduce reliance on cash transactions to enhance operational control.
+- Align payment strategies with customer preferences to improve checkout experience.
+
+## 👤 Author
+
+**Giwa Aaron Babatunde**  
+📊 Data Analyst | Power BI Developer  
+🚀 "Analyze With Giwa"  
+🔗 GitHub: https://github.com/giwa-data-analyst
+
 
 
 
