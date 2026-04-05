@@ -64,6 +64,10 @@ The goal of this project is to transform raw transactional data into meaningful 
 - DAX
 - Microsoft Excel (for dataset preparation)
 
+## 📥 Download Project File
+Explore the full interactive dashboard:
+👉 [Download Power BI File](pbix/supermarket-analysis.pbix)
+
 ## 📸 Dashboard Preview
 
 ### Executive Overview Dashboard
