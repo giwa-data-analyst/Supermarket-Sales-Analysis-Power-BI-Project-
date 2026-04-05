@@ -1,4 +1,4 @@
-# Supermarket-Sales-Analysis-Power-BI-Project-
+# 🛒 Supermarket-Sales-Analysis-Power-BI-Project-
 End-to-end Power BI dashboard analyzing supermarket sales performance, category contribution, and payment trends using DAX and data modeling.
 
 ## 📊 Project Overview
@@ -66,6 +66,29 @@ The goal of this project is to transform raw transactional data into meaningful 
 
 ## 📸 Dashboard Preview
 
-### Executive Overview
+### Executive Overview Dashboard
 
-![Executive](images/executive-overview-dashboard.png)
+<br>
+
+<img src="images/executive-overview-dashboard.png.png" width="800"/>
+
+<br>
+
+### Category Analysis Dashboard
+
+<br>
+
+<img src="images/category-analysis-dashboard.png.png" width="800"/>
+
+<br>
+
+### Payment Analysis Dashboard
+
+<br>
+
+<img src="images/payment-analysis-dashboard.png.png" width="800"/>
+
+<br>
+
+
+
