@@ -76,7 +76,8 @@ Explore the full interactive dashboard:
 
 <img src="images/executive-overview-dashboard.png.png" width="800"/>
 
-### 💡 Recommendations Base on Executive Overview Dashboard
+### 💡 Key Recommendations
+Based on the analysis above, the following actions are recommended:
 - Stabilize revenue by replicating strategies from high-performing months and introducing consistent monthly promotions.
 - Increase Average Order Value through product bundling and upselling techniques.
 - Use dashboard insights for regular performance tracking and quick decision-making.
@@ -88,7 +89,8 @@ Explore the full interactive dashboard:
 
 <img src="images/category-analysis-dashboard.png.png" width="800"/>
 
-### 💡 Recommendations Base on Category Analysis Dashboard
+### 💡 Key Recommendations
+Based on the analysis above, the following actions are recommended:
 - Focus on expanding high-performing categories like Grocery to maximize revenue.
 - Improve low-performing categories (e.g., Bakery) through discounts, repositioning, or cross-selling.
 - Balance product mix to reduce over-dependence on a single category.
@@ -100,10 +102,18 @@ Explore the full interactive dashboard:
 
 <img src="images/payment-analysis-dashboard.png.png" width="800"/>
 
-### 💡 Recommendations
-- Promote digital payments (Card/Mobile) with incentives to improve efficiency.
-- Reduce reliance on cash transactions to enhance operational control.
+### 💡Key Recommendations
+Based on the analysis above, the following actions are recommended:
+- Promote **digital payments (Card/Mobile)** with incentives to improve efficiency.
+- Reduce reliance on **cash transactions** to enhance operational control.
 - Align payment strategies with customer preferences to improve checkout experience.
+
+### 🚀 Conclusion
+
+This project demonstrates the ability to build **interactive dashboards**, perform **business-focused analysis**, and communicate insights effectively using Power BI.
+
+It showcases how data can be transformed into **strategic decision-making tools** for business growth.
+
 
 ## 👤 Author
 
